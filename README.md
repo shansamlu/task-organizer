@@ -28,4 +28,7 @@ Mongoose-plugin-autoinc
 npm install mongoose-plugin-autoinc --save-dev
 ```
 
-
+## Run on local Development Evn
+```
+nodemon app.js
+```
